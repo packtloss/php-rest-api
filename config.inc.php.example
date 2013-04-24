@@ -1,6 +1,6 @@
 <?php
 define("DB_SERVER","localhost", TRUE);
-define("DB_USER","triggermail", TRUE);
-define("DB_PASSWORD","trigger", TRUE);
-define("DB","triggermail", TRUE);
+define("DB_USER","dbuser", TRUE);
+define("DB_PASSWORD","dbpass", TRUE);
+define("DB","database", TRUE);
 ?>
