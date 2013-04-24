@@ -4,9 +4,9 @@ class API extends REST {
 	public $data = "";
 
 	const DB_SERVER = "localhost";
-	const DB_USER = "triggermail";
-	const DB_PASSWORD = "trigger";
-	const DB = "triggermail";
+	const DB_USER = "dbuser";
+	const DB_PASSWORD = "dbpass";
+	const DB = "database";
 
 	private $db = NULL;
 
